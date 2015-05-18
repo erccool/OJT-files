@@ -1,0 +1,14 @@
+**/.classpath
+**/.project
+**/.settings/**
+**/target/**
+target/**
+**/bin/**
+**/.springBeans
+.idea/*
+*.iml
+velocity.log*
+.project
+.settings/**
+**/rebel.xml*
+/.DS_Store
